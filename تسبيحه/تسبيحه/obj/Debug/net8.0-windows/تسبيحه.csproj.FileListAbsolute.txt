@@ -1,0 +1,17 @@
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\تسبيحه.Form1.resources
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\تسبيحه.Properties.Resources.resources
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\تسبيحه.csproj.GenerateResource.cache
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\تسبيحه.GeneratedMSBuildEditorConfig.editorconfig
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\تسبيحه.AssemblyInfoInputs.cache
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\تسبيحه.AssemblyInfo.cs
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\تسبيحه.csproj.CoreCompileInputs.cache
+D:\FirstAPP c#\تسبيحه\تسبيحه\bin\Debug\net8.0-windows\تسبيحه.exe
+D:\FirstAPP c#\تسبيحه\تسبيحه\bin\Debug\net8.0-windows\تسبيحه.deps.json
+D:\FirstAPP c#\تسبيحه\تسبيحه\bin\Debug\net8.0-windows\تسبيحه.runtimeconfig.json
+D:\FirstAPP c#\تسبيحه\تسبيحه\bin\Debug\net8.0-windows\تسبيحه.dll
+D:\FirstAPP c#\تسبيحه\تسبيحه\bin\Debug\net8.0-windows\تسبيحه.pdb
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\تسبيحه.dll
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\refint\تسبيحه.dll
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\تسبيحه.pdb
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\تسبيحه.genruntimeconfig.cache
+D:\FirstAPP c#\تسبيحه\تسبيحه\obj\Debug\net8.0-windows\ref\تسبيحه.dll
